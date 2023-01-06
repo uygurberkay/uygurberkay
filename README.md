@@ -12,9 +12,6 @@ Hello There,<br><br>I'm an active Electrical-Electronical Engineer and also Comp
 ![](https://github-readme-streak-stats.herokuapp.com/?user=uygurberkay&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uygurberkay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=uygurberkay&icon=0&color=0)](https://visitcount.itsvg.in)
 
