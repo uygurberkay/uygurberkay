@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello There,<br><br>I'm an active Electrical-Electronical Engineer and also Computer Engineer at Celal Bayar University at Turkey<br>You can see my public repositories and ask me about anything according to technology ı know<br><br>Also you can contact me from ;<br>E-mail : uygurberkay@icloud.com<br>LinkedIn : https://www.linkedin.com/in/berkay-uygur-082236185/<br><br>Have Fun :)<br>
+Hello There,<br><br>I'm an active Electrical-Electronical Engineer and also Computer Engineer student at Celal Bayar University at Turkey<br>You can see my public repositories and ask me about anything according to technology ı know<br><br>Also you can contact me from ;<br>E-mail : uygurberkay@icloud.com<br>LinkedIn : https://www.linkedin.com/in/berkay-uygur-082236185/<br><br>Have Fun :)<br>
 
 
 ## 🌐 Socials:
