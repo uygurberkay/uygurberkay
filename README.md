@@ -3,6 +3,12 @@
 # Hi there, I'm Berkay Uygur 👋
 ### Computer Engineer • Electrical-Electronics Engineer • Indie Game Studio Founder
 
+<br/>
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="360" alt="Game Development Pixel Art" />
+
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uygur-berkay/)
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/uygurberkay09)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/uygurberkay0)
@@ -64,18 +70,13 @@
 
 ---
 
-### 📊 GitHub & Activity Stats
+### 📊 GitHub Activity & Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=uygurberkay&show_icons=true&theme=tokyonight&hide_border=true" alt="Berkay's GitHub stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=uygurberkay&theme=tokyonight&hide_border=true" alt="Berkay's Streak" />
 
-<br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=uygurberkay&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-
-<br/>
+<br/><br/>
 
 #### 🍊 365-Day Contribution Activity
 <img src="https://ghchart.rshah.org/ea580c/uygurberkay" alt="Berkay's Orange Github Chart" />
