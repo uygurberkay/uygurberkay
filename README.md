@@ -24,6 +24,11 @@
 
 ### 🛠️ Tech Stack & Expertise
 
+**AI & Agentic Development:**  
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Claude-D97706?style=flat&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
+
 **Languages:**  
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -63,12 +68,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=uygurberkay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Berkay's GitHub stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uygurberkay&theme=tokyonight&hide_border=true" alt="Berkay's Streak" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=uygurberkay&show_icons=true&theme=tokyonight&hide_border=true" alt="Berkay's GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=uygurberkay&theme=tokyonight&hide_border=true" alt="Berkay's Streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uygurberkay&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="50%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=uygurberkay&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+
+<br/>
+
+#### 🍊 365-Day Contribution Activity
+<img src="https://ghchart.rshah.org/ea580c/uygurberkay" alt="Berkay's Orange Github Chart" />
 
 </div>
 
@@ -77,6 +87,6 @@
 <div align="center">
 
 👀 **Profile Visits:**  
-![](https://visitcount.itsvg.in/api?id=uygurberkay&icon=0&color=0)
+![](https://komarev.com/ghpvc/?username=uygurberkay&color=blueviolet&style=flat-square)
 
 </div>
