@@ -3,12 +3,6 @@
 # Hi there, I'm Berkay Uygur 👋
 ### Computer Engineer • Electrical-Electronics Engineer • Indie Game Studio Founder
 
-<br/>
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="360" alt="Game Development Pixel Art" />
-
-<br/><br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uygur-berkay/)
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/uygurberkay09)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/uygurberkay0)
@@ -78,8 +72,12 @@
 
 <br/><br/>
 
-#### 🍊 365-Day Contribution Activity
-<img src="https://ghchart.rshah.org/ea580c/uygurberkay" alt="Berkay's Orange Github Chart" />
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uygurberkay/uygurberkay/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uygurberkay/uygurberkay/output/github-snake.svg">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/uygurberkay/uygurberkay/output/github-snake.svg">
+</picture>
 
 </div>
 
